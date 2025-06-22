@@ -12,6 +12,8 @@ build/
 develop-eggs/
 dist/
 downloads/
+finalbuild/
+trash/
 eggs/
 .eggs/
 lib/
