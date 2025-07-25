@@ -1,0 +1,24 @@
+###### Building project 
+#requirements:
+- win10toast
+- pywin32 v302
+- pyinstaller 5.3
+- python 3.10(python install)
+- win10 sdk 19045
+- Lotta coffee
+
+  Note:
+    the library win10toast is a custom one and different from the one on pip.please use this repo to install. https://github.com/russhaun/Windows-10-Toast-Notifications .This repo adds callbacks to class.with more planned
+
+  Also:
+    version of pywin32 is capped(for now @ 302) use binary installer from here. https://github.com/mhammond/pywin32/releases/tag/b302 . install appropriate version for your platform ex: 32/64 bit
+
+  navigate to windows folder of extacted repo. you will see a folder called "source" copy this folder to a place of your choosing rename if you wish.open a cmd prompt in this new location  and execute "pyinstaller artillery.spec" (without quotes)  when complete files will be located in "finalbuild" folder, this folder is created during build.this includes any src code as well. this project self replicates src\compiled binaries to finalbuild folder will improve as time goes on.
+  
+
+  Suggested method of install/dev:
+    use msi to base install package.then src/compiled files will read configs from installed dir. so changes to them will not harm install and allow you to freely make changes to src while working on features. raw src will run just fine. test binaries can be run from final build folder. if you need to make config changes just change the file in installed dir to see changes in src\compiled
+
+    I have included a function in build script to append its own changelog msg's to a seperate file for granular tracking due to the large number of changes one issue might present. not all of these msg's need to be in main changelog hence the seperation. please condense changes in main file and add as appropriate. these changes must be present in main file before accepting  pull requests
+
+    when complete build is finished just copy entire folder contents over ones in your branch and make a request

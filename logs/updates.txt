@@ -1,0 +1,92 @@
+2025-07-22 09:52:54,462~INFO~starting update app
+2025-07-22 09:52:57,527~INFO~Setting up download folders now.
+2025-07-22 09:52:58,528~INFO~Logfile dir exists skipping.
+2025-07-22 09:52:59,533~INFO~config backup dir exists skipping.
+2025-07-22 09:53:00,543~INFO~Release dir exists skipping.
+2025-07-22 09:54:16,281~INFO~starting update app
+2025-07-22 09:54:19,327~INFO~Setting up download folders now.
+2025-07-22 09:54:20,334~INFO~Logfile dir exists skipping.
+2025-07-22 09:54:21,340~INFO~config backup dir exists skipping.
+2025-07-22 09:54:22,356~INFO~Release dir exists skipping.
+2025-07-22 09:54:23,387~INFO~Downloading files from github.
+2025-07-22 09:54:25,401~INFO~Checking out Artillery repo version 3.0.0
+2025-07-22 09:54:47,230~INFO~Checkout Done!
+2025-07-22 09:54:51,246~INFO~Extracting all the files now.
+2025-07-22 09:54:53,544~INFO~Extraction Done!
+2025-07-22 09:54:54,060~INFO~Artillery directory exists.
+2025-07-22 09:54:55,077~INFO~Checking for config file.
+2025-07-22 09:54:56,093~INFO~Backing up existing config file.
+2025-07-22 09:54:56,146~INFO~Checking if service is active.....
+2025-07-22 09:54:58,233~INFO~Service is active with pid of: 8688
+2025-07-22 09:55:00,237~INFO~Stopping service with pid 8688
+2025-07-22 09:55:07,256~INFO~Removing existing install.
+2025-07-22 09:55:09,310~INFO~Successfully removed.
+2025-07-22 09:55:11,312~INFO~Copying archive over.
+2025-07-22 09:55:15,435~INFO~Creating program directories.
+2025-07-22 09:55:16,437~INFO~Restoring config from backup.
+2025-07-22 09:55:17,482~INFO~Restore Complete.
+2025-07-22 09:55:20,495~INFO~Restarting Artillery.
+2025-07-22 09:55:22,848~INFO~Checking if service is active.....
+2025-07-22 09:55:24,951~INFO~Artillery started.....
+2025-07-22 09:55:27,958~INFO~Performing cleanup.....
+2025-07-22 09:55:31,028~INFO~Completing update.....
+2025-07-22 09:55:41,060~INFO~Closing update app
+2025-07-22 15:53:26,032~INFO~starting update app
+2025-07-22 15:53:29,098~INFO~Setting up download folders now.
+2025-07-22 15:53:30,103~INFO~Logfile dir exists skipping.
+2025-07-22 15:53:31,114~INFO~config backup dir exists skipping.
+2025-07-22 15:53:32,122~INFO~Release dir exists skipping.
+2025-07-22 15:54:46,592~INFO~starting update app
+2025-07-22 15:54:49,637~INFO~Setting up download folders now.
+2025-07-22 15:54:50,642~INFO~Logfile dir exists skipping.
+2025-07-22 15:54:51,654~INFO~config backup dir exists skipping.
+2025-07-22 15:54:52,657~INFO~Release dir exists skipping.
+2025-07-22 15:58:03,619~INFO~starting update app
+2025-07-22 15:58:06,695~INFO~Setting up download folders now.
+2025-07-22 15:58:07,697~INFO~Logfile dir exists skipping.
+2025-07-22 15:58:08,719~INFO~config backup dir exists skipping.
+2025-07-22 15:58:09,721~INFO~Release dir exists skipping.
+2025-07-22 15:58:10,785~INFO~Downloading files from github.
+2025-07-22 15:58:12,789~INFO~Checking out Artillery repo version 3.0.0
+2025-07-22 15:58:38,804~INFO~Checkout Done!
+2025-07-22 16:02:53,979~INFO~starting update app
+2025-07-22 16:02:57,033~INFO~Setting up download folders now.
+2025-07-22 16:02:58,045~INFO~Logfile dir exists skipping.
+2025-07-22 16:02:59,051~INFO~config backup dir exists skipping.
+2025-07-22 16:03:00,064~INFO~Release dir exists skipping.
+2025-07-22 16:03:01,115~INFO~Downloading files from github.
+2025-07-22 16:03:03,130~INFO~Checking out Artillery repo version 3.0.0
+2025-07-22 16:03:25,165~INFO~Checkout Done!
+2025-07-22 16:05:43,097~INFO~starting update app
+2025-07-22 16:05:46,143~INFO~Setting up download folders now.
+2025-07-22 16:05:47,157~INFO~Logfile dir exists skipping.
+2025-07-22 16:05:48,169~INFO~config backup dir exists skipping.
+2025-07-22 16:05:49,184~INFO~Release dir exists skipping.
+2025-07-22 16:06:13,791~INFO~starting update app
+2025-07-22 16:06:16,847~INFO~Setting up download folders now.
+2025-07-22 16:06:17,861~INFO~Logfile dir exists skipping.
+2025-07-22 16:06:18,865~INFO~config backup dir exists skipping.
+2025-07-22 16:06:19,867~INFO~Release dir exists skipping.
+2025-07-22 16:06:20,929~INFO~Downloading files from github.
+2025-07-22 16:06:22,934~INFO~Checking out Artillery repo version 3.0.0
+2025-07-22 16:06:44,843~INFO~Checkout Done!
+2025-07-22 16:06:48,868~INFO~Extracting all the files now.
+2025-07-22 16:06:51,104~INFO~Extraction Done!
+2025-07-22 16:06:51,617~INFO~Artillery directory exists.
+2025-07-22 16:06:52,621~INFO~Checking for config file.
+2025-07-22 16:06:53,628~INFO~Backing up existing config file.
+2025-07-22 16:06:53,675~INFO~Checking if service is active.....
+2025-07-22 16:06:55,747~INFO~Service is active with pid of: 8688
+2025-07-22 16:06:57,750~INFO~Stopping service with pid 8688
+2025-07-22 16:07:05,557~INFO~Removing existing install.
+2025-07-22 16:07:07,611~INFO~Successfully removed.
+2025-07-22 16:07:09,616~INFO~Copying archive over.
+2025-07-22 16:07:13,738~INFO~Creating program directories.
+2025-07-22 16:07:14,750~INFO~Restoring config from backup.
+2025-07-22 16:07:15,799~INFO~Restore Complete.
+2025-07-22 16:07:18,809~INFO~Restarting Artillery.
+2025-07-22 16:07:21,706~INFO~Checking if service is active.....
+2025-07-22 16:07:23,819~INFO~Artillery started.....
+2025-07-22 16:07:26,826~INFO~Performing cleanup.....
+2025-07-22 16:07:29,891~INFO~Completing update.....
+2025-07-22 16:07:39,929~INFO~Closing update app

@@ -1,0 +1,20 @@
+# Artillery - globals
+global g_appver
+global g_appname
+global g_apppath
+global g_appfile
+global g_configfile
+global g_homepath
+global g_banlist
+global g_localbanlist
+global g_win_src
+global g_database
+global g_eventdll
+global g_hostname
+global g_logpath
+global g_alertlog
+global g_pidfile
+global g_batch
+global g_icon_path
+global g_host_os
+global g_syspath
