@@ -1,0 +1,4 @@
+*.pyc
+banlist.txt
+config
+*.zip

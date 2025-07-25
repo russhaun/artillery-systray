@@ -1,0 +1,10 @@
+2025-07-22 09:55:23,485~INFO~[*] Artillery Service controller starting with pid: 5324
+2025-07-22 09:55:23,497~INFO~[*] Trying to start Artillery now.
+2025-07-22 09:55:23,506~INFO~[*] Checking if service is active.....
+2025-07-22 09:55:23,554~INFO~[*] Service is active with pid of: 8688
+2025-07-22 09:55:23,554~INFO~[*] Service is already running. Nothing to do
+2025-07-22 16:07:22,352~INFO~[*] Artillery Service controller starting with pid: 14048
+2025-07-22 16:07:22,363~INFO~[*] Trying to start Artillery now.
+2025-07-22 16:07:22,378~INFO~[*] Checking if service is active.....
+2025-07-22 16:07:22,423~INFO~[*] Service is active with pid of: 8688
+2025-07-22 16:07:22,423~INFO~[*] Service is already running. Nothing to do

@@ -1,0 +1,30 @@
+#############################################################################################
+#
+# This is the Artillery Systray configuration file. Change these variables and flags to change how
+# it behaves.
+#
+# Artillery SysTray written by: Russell Haun
+# Website: https://www.binarydefense.com
+# Email: info [at] binarydefense.com
+# Download: git clone https://github.com/russhaun/artillery_systray 
+#
+#############################################################################################
+#
+
+#DO YOU WANT TO DO AUTOMATIC UPDATES - ON OR OFF.
+AUTO_UPDATE= OFF
+
+#UPDATE FREQUENCY, ONLY VALID ON WINDOWS (DEFAULT IS 7 DAYS).
+UPDATE_FREQUENCY= 604800
+
+#PORT TO LISTEN ON FOR ALERTS
+ALERT_PORT= 10080
+
+#LK VERSION OF SYSTRAY APP
+SYSTRAY_VER= 1.0.0
+
+#LK VERSION OF ARTILLERY
+ARTILLERY_VER= 3.0.0
+
+#BIND ADDRESS FOR ALERTS
+BIND_ADDRESS= 127.0.0.1
