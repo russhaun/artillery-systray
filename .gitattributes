@@ -1,0 +1,16 @@
+#just some stuff to normalize line endings
+* text
+*.py text
+*.txt text
+*.md text
+*.log text
+
+#for all the icons in project
+*.png binary
+*.ico binary
+*.jpg binary
+*.jpeg binary
+
+
+#I grabbed all info from here. feel free to add/remove if incorrect for your env.
+#https://help.github.com/articles/dealing-with-line-endings/
