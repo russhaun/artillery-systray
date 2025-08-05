@@ -45,6 +45,8 @@ Be sure to edit ```\ProgramData\Artillery\systray\config``` to configure desired
 <img width="280" alt="artillery settings honeypot" src="https://github.com/user-attachments/assets/9e9148d1-ee8f-404c-a927-52df262835d7" />
 <img width="280" alt="artillery settings logging" src="https://github.com/user-attachments/assets/b00a31d4-e1cf-41fa-80dd-651696f3548a" />
 <img width="280" alt="artillery settings syslog" src="https://github.com/user-attachments/assets/11eced4d-0afd-4fb2-a73f-776d3f57cf74" />
+<img width="337" height="230" alt="artillery_systray" src="https://github.com/user-attachments/assets/2ca4728d-c6ba-4a22-99aa-206bbb62fb34" />
+
 
 
 ## Bugs and enhancements
