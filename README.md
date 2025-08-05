@@ -49,7 +49,7 @@ Be sure to edit ```\ProgramData\Artillery\systray\config``` to configure desired
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an issue here https://github.com/Russhaun/systray/issues
+For bug reports or enhancements, please open an issue here https://github.com/Russhaun/artillery-systray/issues
 
 ## Supported platforms
 
